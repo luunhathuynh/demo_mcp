@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "my-mcp": {
+            "command": "E:\\2025_Study\\Pratice\\demo_mcp\\mcp_env\\Scripts\\python.exe",
+            "args": ["E:\\2025_Study\\Pratice\\demo_mcp\\mcp_server.py"]
+        }
+    }
+}
